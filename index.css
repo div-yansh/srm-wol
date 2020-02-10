@@ -19,7 +19,7 @@ header img {
 
 li {
 	float: left;
-	list-style: none;	
+	list-style: none;
 	padding-left: 20px;
 	padding-top: 10px;
 }
@@ -39,7 +39,7 @@ main {
 }
 
 .domains {
-	height:830px;
+	height: 830px;
 	margin-top: 50px;
 	border: 1px solid gray;
 	margin-bottom: 10px;
@@ -132,7 +132,7 @@ main {
 }
 
 .choice {
-	height:550px;
+	height: 550px;
 	margin-top: 30px;
 	background-image: url(images/confusion.jpeg);
 	background-repeat: no-repeat;
@@ -188,11 +188,12 @@ main {
 	width: 100%;
 	text-align: center;
 }
+
 .submit {
 	height: 40px;
 }
 
-.submit input{
+.submit input {
 	height: 100%;
 	width: 25%;
 }
