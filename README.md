@@ -1,2 +1,1 @@
-# srm-wol
-Test Repo for srm-wol
+A website that helps student find the relevant study material for a skill of their interest. Material is in the form of boos, websites and YouTube videos. The website don't create have its own content but rather provide link for websites that are popular among programmers. This way a new beginner don't need to waste his time to search internet for his topic of interest and get nothing for weeks.
