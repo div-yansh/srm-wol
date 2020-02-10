@@ -1,3 +1,3 @@
-function revealAnswer() => {
-	document.getElementById("answer").style.display = 'block';
+function revealMessage() => {
+	document.getElementById("disp").style.display = "block";
 }
